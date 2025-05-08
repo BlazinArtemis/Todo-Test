@@ -33,7 +33,7 @@ jobs:
         run: npm run build
       
       - name: Start dev server
-        run: npm run dev & npx wait-on http://localhost:3000
+        run: npm run dev & npx wait-on http://localhost:5173
       
       - name: Run Playwright tests
         run: npx playwright test
