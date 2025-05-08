@@ -2,7 +2,7 @@
 
 ## Overview
 
-This test plan outlines the testing strategy for the Todo.vue component, a simple todo list application built with Vue.js. The component enables users to add todos, delete them, and filter them based on length.
+This test plan outlines the testing strategy for the Todo.vue component, a simple todo list application built with Vue.js. The app enables users to add todos, delete them, and filter them based on length.
 
 ## Test Types and Priorities
 
