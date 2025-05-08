@@ -5,7 +5,7 @@ export default defineConfig({
   testDir: './e2e',
   use: {
     baseURL: 'http://localhost:5173',
-    headless: false,
+    headless: true,
     viewport: { width: 1280, height: 720 },
     video: 'on-first-retry',
     trace: 'on-first-retry',
